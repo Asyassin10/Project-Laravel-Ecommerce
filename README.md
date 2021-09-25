@@ -8,3 +8,4 @@ Un site Web de commerce électronique, par définition, est un site Web qui vous
 
 ![alt text](http://logos-marques.com/wp-content/uploads/2020/01/Paypal-logo.png)
 
+
