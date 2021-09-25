@@ -6,5 +6,5 @@ Un site Web de commerce électronique, par définition, est un site Web qui vous
 
 
 
-![alt tag](http://user-images.githubusercontent.com/79702243/134776466-a359daec-b439-4ed3-aae6-63ba8b26d3fd.png/to/img.png)
+![alt tag](http:/http://user-images.githubusercontent.com/79702243/134776466-a359daec-b439-4ed3-aae6-63ba8b26d3fd.png/to/img.png)
 
