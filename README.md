@@ -5,5 +5,5 @@ Un site Web de commerce électronique, par définition, est un site Web qui vous
 # Payer par PayPal
 
 
-(https://user-images.githubusercontent.com/79702243/134776466-a359daec-b439-4ed3-aae6-63ba8b26d3fd.png)
+https://(https://user-images.githubusercontent.com/79702243/134776466-a359daec-b439-4ed3-aae6-63ba8b26d3fd.png)
 
